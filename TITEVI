@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>MY TITEVI PLAYLIST</title>
+</head>
+<body>
+  <h1> WELCOME SHITHEADS</h1>
+  <p>CLICK ME ASSHOLE</p>
+  <a href="https://raw.githubusercontent.com/kikoman12323/TITEVI/main/dongpogiV2.m3u" target="_blank">WATCH ME</a>
+
+<script>
+  //Optional: use a media player to play the M#U stream directly on the page
+  const link = document.createElement('a');
+  link=href="https://raw.githubusercontent.com/kikoman12323/TITEVI/main/dongpogiV2.m3u";
+  link.innerText="PLAY ME";
+  document.body.appendChild(link);
+  </script>
+</body>
+</html>
