@@ -619,8 +619,11 @@ http://143.244.60.30/NICKTOONS/index.m3u8
 
 
 
-#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Undefined",Nick Jr. East
-https://fl5.moveonjoy.com/NICK_JR/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="NickJr" group-title="KIDS"" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://aqfadtv.xyz/logos/NickJr2023.png" ch-number="617",Nick Jr
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/9982
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/8DAe8wr.png" group-title="Kids",Nick Jr. Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf&checkedby:iptvcat.com
