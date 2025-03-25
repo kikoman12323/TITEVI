@@ -328,12 +328,12 @@ https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
-#EXTINF:-1 tvg-id="tvnmoviespinoy" tvg-name="TVN MOVIES PINOY" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="group-title="Movies"",TVN MOVIES PINOY
+#EXTINF:-1 tvg-id="tvnmoviespinoy" tvg-name="TVN MOVIES PINOY" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="Movies",TVN MOVIES PINOY
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
-#EXTINF:-1 tvg-id="tvnmpremiumhd" tvg-name="TVN PREMIUM HD" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="group-title="Movies"",TVN PREMIUM HD
+#EXTINF:-1 tvg-id="tvnmpremiumhd" tvg-name="TVN PREMIUM HD" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="Movies",TVN PREMIUM HD
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
 
 
@@ -423,7 +423,7 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 #EXTINF:-1 tvg-id="415" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png" group-title="Movies",HBO Hits HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
 
-#EXTINF:-1 ,HBO 2 East
+#EXTINF:-1 group-title="Movies",HBO 2 East
 https://fl5.moveonjoy.com/HBO_2/index.m3u8?checkedby:iptvcat.com
 
 
@@ -435,7 +435,7 @@ http://170.254.18.106/HBO2/index.m3u8
 #EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://i.imgur.com/6izktyK.png" group-title="Movies", HBO Plus
 http://170.254.18.106/HBO_PLUS/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://i.postimg.cc/TYZQ6STM/8047802smbenknl54d1qi40m9m-320b8e1b7abb5c846e89cb9ad3ca8e39.png" group-title="General", HBO Signature
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://i.postimg.cc/TYZQ6STM/8047802smbenknl54d1qi40m9m-320b8e1b7abb5c846e89cb9ad3ca8e39.png" group-title="Movies", HBO Signature
 http://170.254.18.106/HBO_SIG/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/D5127959-34E4-41B2-AA80-CE74DDC2C3C4/0-16x9.jpg?width=203" group-title="Movies", HBO Signature Cignal
@@ -452,24 +452,24 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PARAMOUNT NETWORK"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png" group-title="Movies", Paramount Network
 http://170.254.18.106/PARAMOUNT/index.m3u8
 
-#EXTINF:-1 tvg-id="Thrillers"  tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" group-title="General" , Thrillers
+#EXTINF:-1 tvg-id="Thrillers"  tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" group-title="Movies" , Thrillers
 https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="General", YES Network 
+#EXTINF:-1 group-title="Entertainment", YES Network 
 https://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
-#EXTINF:-1 group-title="General",Hollywood Movies
+#EXTINF:-1 group-title="Movies",Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Sony Movie Channel
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies", Sony Movie Channel
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
-#EXTINF:-1 group-title="General",My Time Movies Network
+#EXTINF:-1 group-title="Movies",My Time Movies Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="jeepney" tvg-name="JEEPNEY TV" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="🇵🇭 CIGNAL ENTERTAINMENT",JEEPNEY TV
+#EXTINF:-1 tvg-id="jeepney" tvg-name="JEEPNEY TV" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PH LOCAL",JEEPNEY TV
 http://143.44.136.113:6910/001/2/ch00000090990000001250/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 
@@ -677,24 +677,24 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",MeTV Toons
 http://208.89.99.124:5004/auto/v9.4
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Bloody Disgusting TV
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Entertainment",Bloody Disgusting TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bloodydisgus-cineverse/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNA Wrestling
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Entertainment",TNA Wrestling
 https://d3mwqwqfak7y2q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/hls/main.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",IMPACT! WRESTLING
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Entertainment",IMPACT! WRESTLING
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",WWE
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Entertainment",WWE
 http://Supersonictv.live:8080/live/006779/439866/22185.ts
 
 
 
-#EXTINF:-1 group-title="USA Channels",MTV Live
+#EXTINF:-1 group-title="PH LOCAL",MTV Live
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo-1981.png" group-title="Local", USA Network East
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo-1981.png" group-title="Entertainment", USA Network East
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpegdash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -746,9 +746,9 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 
 
 
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/TxM8ze5.png" group-title="PH LOCAL", Heart Of Asia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxM8ze5.png" group-title="PH LOCAL", Heart Of Asia
 http://tvnijuan.net:38081/ryan/ry@n/609
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/nudQeH7.png" group-title="PH LOCAL", I Heart Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nudQeH7.png" group-title="PH LOCAL", I Heart Movies
 http://tvnijuan.net:38081/ryan/ry@n/608
 
 
