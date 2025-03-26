@@ -701,7 +701,7 @@ https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=78ab64fa90f137a697743b5dc27b2f96:de4d31c7fc6005ede28abab2a0720a9f
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",The Walking Dead Universe
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Entertainment",The Walking Dead Universe
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa8176b9884200074ef5ae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ff963292-6aa2-4806-857d-39ad6f5f0e4a&serverSideAds=false&checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",90's Kids
@@ -762,7 +762,7 @@ http://tvnijuan.net:38081/ryan/ry@n/608
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name="GanbaTV" tvg-logo="" group-title="", GanbaTV
+#EXTINF:-1 tvg-id="" tvg-name="GanbaTV" tvg-logo="" group-title="Entertainment", GanbaTV
 https://tv.jomarhost.xyz/memfs/7a68dbe7-c91b-49b5-bd2f-1b0d16dd187c.m3u8
 
 
