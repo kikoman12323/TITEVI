@@ -1,0 +1,62 @@
+YUNG MGA WAG.IKA.LAT NA LINK PWEDE NYO PALITAN PAG DI NA GUMAGANA!
+
+EXAMPLE:
+https://wag.ika.lat/1096/manifest.mpd
+
+PAPALITAN NYO NG:
+https://cnvg.katir.workers.dev/1096/manifest.mpd
+https://ni.bobay.workers.dev/1096/manifest.mpd
+https://vision.converge.workers.dev/1096/manifest.mpd
+https://vision.seesie.workers.dev/1096/manifest.mpd
+https://by.spotifyonphc.workers.dev/1096/manifest.mpd
+
+
+
+ANC= https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd   NGJiZGM3ODAyNGE1NDY2Mjg1NGI0MTJkMDFmYWZhMTY6NjAzOWVjOWIyMTNhY2E5MTM4MjE2NzdhMjhiZDc4YWU=
+CINEMA ONE= https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd   NThkMGU1Njk5MTE5NDA0M2I4ZmI4MmZlYjRkYjcyNzY6ZDY4ZjQxYjU5NjQ5Njc2Nzg4ODg5ZTE5ZmIxMGQyMmM=
+CINEMO= https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd   YWE4YWViZTM1Y2NjNDU0MWI3Y2U2MjkyZWZjYjFiZmI6YWFiMWRmMTA5ZDIyZmM1ZDdlM2VjMTIxZGRmMjRlNWY=
+GMA PINOY TV= https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/index.mpd   Yzk1ZWQ0YzQ0YjBiNGY3ZmExYzZlYmJiYmFhYjIxYTE6NDc2MzViOGU4ODVlMTlmMmNjYmRmZjA3OGMyMDcwNTg=
+KAPAMILYA CHANNEL= https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd  YmQxN2FmYjVkYzk2NDhhMzliZTc5ZWUzNjM0ZGQ0Yjg6M2VjZjMwNWQ1NGE3NzI5Mjk5YjkzYTNkNjljMDJlYTU=
+MYX= https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/index.mpd   ZjQwYTUyYTNhYzliNDcwMmJkZDViNzM1ZDkxMGZkMmY6NWNlMWJjN2YwNmI0OTRjMjc2MjUyYjRkMTNjOTBlNTE=
+PBB ALL-ACCESS= https://2025.pbbcollab.workers.dev/dash/live/2112806/pbbmain/manifest.mpd   ODQzOGU4NDk1NjU5NDI1NTg1YTA5NzQ5Y2Q2YmMzOWE6OWQ5MmIxMmRiMDkyZmU2YmRmMjIwN2VmN2EyYTllNjU=
+TELERADYO SERBISYO= https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd   NDdjMDkzZTBjOWZkNGY4MDgzOWEwMzM3ZGEzZGQ4NzY6NTA1NDczOTQwNDViM2QwNDdkYzdkOTJmNTdiNWZiMzM=
+TFC= https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd   OTU2OGNjODRlMWQ5NDRmMzhlYWMzMDQ1MTdlYWI2ZmQ6ZjEyMTQyYWY4ZjM5YjNiYWI3OWQzNjc5ZDM2NjVlYmU=
+A2Z= https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd   ZjcwM2U0YzhlYzkwNDFlZWI1MDI4YWI0MjQ4ZmEwOTQ6YzIyZjIxNjJlMTc2ZWVlNjI3M2E1ZDBiNjhkMTk1MzA=
+ANIMAL PLANET= https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_animal_planet_sd.mpd   NDM2YjY5Zjk4NzkyNGZjYmJjMDZkNDBhNjljMjc5OWE6YzYzZDViMGQ3ZTUyMzM1YjYxYWViYTRmNjUzN2Q1NGQ=
+AXN= https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_axn_sd.mpd   ZmQ1ZDkyOGY1ZDk3NGNhNDk4M2Y2ZTkyOTVkZmU0MTA6M2FhYTAwMWRkYzE0MmZlZGJiOWQ1NTU3YmU0Mzc5MmY=
+CARTOON NETWORK= https://cignal.seesie.workers.dev/cartoon-network-hd   YTJkMWY1NTJmZjk1NDE1NThiMzI5NmI1YTkzMjEzNmI6Y2RkNDhmYTg4NGRjMGMzYTNmODVhZWViY2ExM2Q0NDQ=
+CINEMAX= https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd   YjIwN2M0NDMzMjg0NDUyM2EzYTNiMDQ2OWU1NjUyZDc6ZmU3MWFlYTM0NmRiMDhmOGM2ZmJmMDU5MjIwOWY5NTU=
+HBO= https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd   ZDQ3ZWJhYmY3YTIxNDMwYjgzYThjNGI4MmQ5ZWY2YjE6NTRjMjEzYjJiNWY4ODVmMWUwMjkwZWU0MTMxZDQyNWI=
+ONE PH= https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd   OTI4MzRhYjRhN2UxNDk5YjkwODg2YzVkNDkyMjBlNDY6YTcxMDhkOWE2Y2ZjYzFiNzkzOWViMTExZGFmMDlhYjM=
+ONE SPORTS= https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd   NTNjM2JmMmViYTU3NGY2MzlhYTIxZjJkNDQwOWZmMTE6M2RlMjg0MTFjZjA4YTY0ZWE5MzViOTU3OGY2ZDBlZGQ=
+ONE SPORTS PLUS= https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd   MzIyZDA2ZTkzMjZmNDc1M2E3ZWMwOTA4MDMwYzEzZDg6MWUzZTBjYTMyZDQyMWZiZmVjODZmZWNlZDBlZmVmZGE=
+PBA RUSH= https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd   NzZkYzI5ZGQ4N2EyNDRhZWFiOWU4YjdjNWRhMWU1ZjM6OTViMmYyZmZkNGUxNDA3MzYyMDUwNjIxM2I2MmFjODI=
+PBO= https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd   ZGNiZGFhYTY2NjJkNDE4OGJkZjk3ZjlmMGNhNWU4MzA6MzFlNzUyYjQ0MWJkMjk3MmYyYjk4YTRiMWJjMWM3YTE=
+TV5= https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd   MjYxNTEyOWVmMmM4NDZhOWJiZDQzYTY0MWM3MzAzZWY6MDdjN2Y5OTZiMTczNGVhMjg4NjQxYTY4ZTFjZmRjNGQ=
+VIVA CINEMA= https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd   MDdhYTgxM2JmMmMxNDc3NDgwNDZlZGQ5MzBmNzczNmU6M2JkNjY4OGI4YjQ0ZTk2MjAxZTc1MzIyNGFkZmM4ZmI=
+JEEPNEYTV= https://wag.ika.lat/1250/manifest.mpd   MzEzNjMzMzEzNjM3MzUzNjM4MzIzMzM1MzEzNjMwMzY6NzIzNTQ4NDM2ZjZlMzQzMzM5NjE1ODYxNTA3NTY2NDk=
+3ABN INTERNATIONAL= https://wag.ika.lat/1183/manifest.mpd   MzEzNjMyMzMzMjMyMzgzNzMxMzgzMDMzMzMzODM1MzY6NDgzODMxNzI3NTQzNDkzNDM5NDM2YzM5NGY2MjM0NDQ=
+ABC AUSTRALIA= https://wag.ika.lat/1111/manifest.mpd   MzEzNjMyMzIzMDMyMzEzMzMxMzkzMjM1MzczMzM4MzA6MzEzOTYxNGE2MzM1MzE2ZDY0NGY1NjZkMzc0NDRjNzU=
+ALIW 23= https://wag.ika.lat/1109/manifest.mpd   MzEzNjMyMzIzMDMxMzczNzM5MzczMjM1MzUzMTM4MzY6MzU1MTM0NDc2ODMyMzY3NzY3NGMzMjcwNGE3MTMyNDk=
+ALLTV2= https://wag.ika.lat/1179/manifest.mpd   MzEzNjMyMzMzMjMyMzgzNTMzMzYzMDMzMzMzNjMwMzY6MzY3NjYyNTY0YzY5NDI1OTQ3MzUzOTQ4Mzc0ZjQ1NTM=
+ANC HD= https://wag.ika.lat/1216/manifest.mpd   MzEzNjMyMzQzNTM4MzczOTM2MzgzMzM5MzEzMTM3Mzg6MzM1YTQ5MzI1OTMwNjE1NzQ5NWE1NTczNTY0OTRiNDQ=
+ANIMAX= https://wag.ika.lat/1315/manifest.mpd   MzEzNjM3MzUzMTMzMzgzMzM0MzkzMzM5MzEzMTMyMzM6Njg0ZDY4NTc2ZTUwMzA1NzMzMzY2MTM3NTg3NzMzNmU=
+ASIAN FOOD NETWORK= https://wag.ika.lat/1342/manifest.mpd   MzEzNjM3MzUzMTM1MzYzNzM2MzQzNDM1MzQzMjMxMzI6NzE1MDQ0MzM3NzM1NjU1OTM4Mzc3OTZkNjg2MTMzMzM=
+BBC NEWS= https://wag.ika.lat/1095/manifest.mpd   MzEzNjMyMzEzOTMxMzMzMzM3MzczMjMyMzQzOTMzMzE6NTczMjRkNmY3NTU2NTI1MzQ4NjY1NDQ4NDI2ZTZkMzI=
+BILYONARYO CHANNEL= https://wag.ika.lat/1124/manifest.mpd   MzEzNjMyMzIzMTMwMzczNzM4MzczMjM4MzczODMxMzA6NTE0NjQzNGMzMjM5NjE3NjQ1MzQ0ZTc3NzIzNDM2Njg=
+CARTOONITO= https://wag.ika.lat/1125/manifest.mpd   MzEzNjMyMzIzMTMwMzgzMDMyMzkzMjM4MzgzMDM2Mzg6Nzc2ODM1NGU2NTc5Nzk1MDM5N2E2YzU2NmQzNTYyNTY=
+CELESTIAL CLASSIC MOVIES= https://wag.ika.lat/1244/manifest.mpd   MzEzNjMzMzEzMTM5MzgzMTMxMzgzODMwMzMzODM3MzM6Mzk1MzM0NDc0ZDc3MzU2NjM1NzkzNTMyMzU0NTM1MzQ=
+CELESTIAL MOVIES PINOY= https://wag.ika.lat/1077/manifest.mpd   MzEzNjMyMzAzODM5MzMzMDMxMzIzMDMwMzIzMDMyMzE6NmI1MDU4NTU3MjU0MzU1ODQ1MzM1YTZlNjM3MzcwMzA=
+CINEMAWORLD= https://wag.ika.lat/1158/manifest.mpd   MzEzNjMyMzMzMDM0MzgzNjM3MzAzODM5MzkzNTMyMzk6MzU2YzM0NTA0NDZmNjE2NzQ0MzU2NDZiMzY1NjM2NzU=
+CNA= https://wag.ika.lat/1106/manifest.mpd   MzEzNjMyMzEzOTMzMzkzMzM4MzQzMjMzMzMzNTMwMzg6NzU2YTczNTE3MzM5Mzk1NTQ2Njg2NTRhNzk2MzMzNzI=
+CNN INTERNATIONAL= https://wag.ika.lat/1073/manifest.mpd   MzEzNjMyMzAzODM5MzMzMDMxMzIzMDMwMzIzMTMyMzE6NmI1MDU4NTU3MjU0MzU1ODQ1MzM1YTZlNjM3MzcwMzA=
+DISCOVERY ASIA= https://wag.ika.lat/1334/manifest.mpd   MzEzNjM3MzUzMTM0MzgzMDM3MzMzNDMwMzAzMjMyMzg6NmUzNDMxNGUzOTRlNDE2NTc0MzkzMTQ5NmEzOTRiNzQ=
+DISCOVERY CHANNEL= https://wag.ika.lat/1194/manifest.mpd   MzEzNjMyMzMzMjMzMzAzMjM3MzYzMDM0MzMzMTM5Mzg6Njc3NDQ4NzI3MzY1NGU0YjMxMzYzMTMzMzI1ODcwNmY=
+DZRH TV= https://wag.ika.lat/1174/manifest.mpd   MzEzNjMyMzMzMjMyMzYzNzM5MzYzMDMyMzgzOTM2MzI6NzQ1NzY0MzY0MjY5NDY3NjRhNmI0ZTU3MzQ0NTZlMzc=
+FOX NEWS= https://wag.ika.lat/1105/manifest.mpd   MzEzNjMyMzEzOTMzMzkzMTMxMzczMjMzMzMzMzM2Mzk6MzE3NTYzMzQzMjRmNGM0YjZkNTkzMDU0MzU3YTQ4NTU=
+GMA7= https://wag.ika.lat/1093/manifest.mpd   MzEzNjMyMzEzODM0MzgzMzMwMzEzMjMwMzMzOTMxMzg6Mzg2OTRlMzQzMjRkNTQzNDc4MzE2Yjc0NTU3NTM0Mzc=
+HISTORY= https://wag.ika.lat/1074/manifest.mpd   MzEzNjMyMzAzODM4MzAzMjM2MzczMDMwMzAzODM3MzU6MzA0ZDM4NGI0NTU3MzI0OTcxNGQ2Yjc1Njk2NzU4Mzc=
+NET25= https://wag.ika.lat/1090/manifest.mpd   MzEzNjMyMzEzOTMxMzEzNjMzMzczMjMyMzIzNTMwMzA6NTY3ODM1MzY3MjYxMzA1NzZlNWE0MTcxNTY0YzM3NDE=
+NICK JR= https://wag.ika.lat/1215/manifest.mpd   MzEzNjMyMzMzNDMxMzMzNDM1MzQzMjMzMzUzNzM0Mzg6NzU0Njc3MzU3MDQxNzA1MjQ4NDc3NzRhNjM1OTQzNjE=
+PINOY XTREME= https://wag.ika.lat/1098/manifest.mpd   MzEzNjMyMzIzMDMyMzAzODM0MzAzMjM1MzczMTMwMzk6NDc1ODM0NmQzMjc1MzMzNTcxMzY0ZTcyNTkzNTY1NTQ=
+WARNER TV= https://wag.ika.lat/1096/manifest.mpd   MzEzNjMyMzEzOTMzMzgzOTMwMzQzMjMzMzEzNzM1MzY6NmI3NTMwNGEzMDYxMzI2Zjc4NTkzNTQ1Mzg0ZjMxNjU=
